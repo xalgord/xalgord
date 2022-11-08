@@ -1,15 +1,9 @@
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/xalgord/">
+  <img align="left" alt="xalgord's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://twitter.com/xalgord">
+  <img align="left" alt="xalgord | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xalgord.xalgord)
@@ -41,8 +35,8 @@ Hi, i'm [Krishna Kaushal](https://xalgord.in/), a passionate, self-taught, Highl
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   19 hrs 16 mins  ██████████████████████▓░░   90.15 %
-SCSS         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+WordPress    19 hrs 16 mins  ██████████████████████▓░░   90.15 %
+CSS         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
@@ -50,14 +44,6 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
