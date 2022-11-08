@@ -12,6 +12,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=xalgord.xalgord) -->
 
 <br />
+<br/>
 
 Hi, i'm [Krishna Kaushal](https://xalgord.in/), a passionate, self-taught, Highly-motivated and resourceful web developer from India. I Love To Explain And Teach Technology, Solve Tech Problems And Learn Something New Every Day. I take great care in the experience, architecture, and code quality of the things I build.
 
