@@ -16,7 +16,7 @@
 Hi, i'm [Krishna Kaushal](https://xalgord.in/), a passionate, self-taught, Highly-motivated and resourceful web developer from India. I Love To Explain And Teach Technology, Solve Tech Problems And Learn Something New Every Day. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="https://github.com/xalgord/xalgord/blob/main/Yy7O.gif" width="300" height="120" />
+  <img align="right" alt="GIF" src="https://github.com/xalgord/xalgord/blob/main/Yy7O.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:connect@xalgord.in) :)
 - 💬 ask me about anything, i am happy to help;
