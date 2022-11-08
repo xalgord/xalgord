@@ -5,8 +5,11 @@
 <a href="https://twitter.com/xalgord">
   <img align="left" alt="xalgord | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://youtube.com/xalgord">
+  <img align="left" alt="xalgord | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=xalgord.xalgord)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=xalgord.xalgord) -->
 
 <br />
 
