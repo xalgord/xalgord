@@ -21,7 +21,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xalgord&show_icons=true&theme=gotham" alt="xalgord" />
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xalgord&show_icons=true&theme=gotham" alt="xalgord" />
 
 
 
