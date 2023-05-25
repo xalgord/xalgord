@@ -35,5 +35,5 @@
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xalgord&show_icons=true&theme=gotham" alt="xalgord" />
 
 
-
+![](https://komarev.com/ghpvc/?username=xalgord&color=brightgreen)
 
