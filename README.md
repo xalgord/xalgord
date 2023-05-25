@@ -1,5 +1,5 @@
 # Krishna Kaushal 🙋‍♂
-## Hello World! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">
+## Hello World! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="28px">
 
 
 <p align="justify">⤷ I'm Krishna Kaushal, a highly motivated and resourceful self-taught web developer and Cyber Security Enthusiast based in India. I have a deep passion for web development and take great pride in the work that I do. I have extensive experience developing for the web, and I always aim to create a positive user experience, maintain strong architecture, and ensure high-quality code. My areas of expertise include HTML5, CSS3, JavaScript, C/C++, PHP and Python. I have a solid understanding of databases, specifically MySQL, and have worked with a variety of popular web development frameworks. I like to break into applications for fun and profit. I am also an active member of the open-source community and enjoy educating others about technology, solving technical problems, and continuously learning and growing in my field.</p>
