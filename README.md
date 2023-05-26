@@ -17,7 +17,7 @@
 
 ✔️ Web Application Penetration Testing<br/>
 ✔️ Playing CTFs and Hacking related challenges<br/>
-✔️ Creating CTF challenges(Forensics and Web)<br/>
+✔️ Creating CTF challenges(Web)<br/>
 ✔️ Networking<br/>
 ✔️ Python , Javascript , PHP , C/C++<br/>
 ✔️ Automating boring tasks with programming<br/>
