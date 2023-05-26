@@ -20,6 +20,7 @@
 ✔️ Creating CTF challenges(Web)<br/>
 ✔️ Networking<br/>
 ✔️ Python , Javascript , PHP , C/C++<br/>
+✔️ WordPress<br/>
 ✔️ Automating boring tasks with programming<br/>
 ✔️ OSINT<br/>
 ✔️ Linux<br/>
