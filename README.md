@@ -1,37 +1,38 @@
-# Krishna Kaushal 🙋‍♂
-## Hello World! <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="28px">
+🎯 Krishna Kaushal<br>
+🌐 Web Application Penetration Tester & Bug Bounty Hunter<br>
+📍 India<br>
+📧 xalgord@gmail.com<br>
+💼 LinkedIn: linkedin.com/in/xalgord<br>
 
+# What I'm All About
+<p align="justify">⤷
+Dedicated and skilled Web Application Penetration Tester and Bug Bounty Hunter, specializing in identifying and securing vulnerabilities within web applications. Adept at employing ethical hacking techniques to enhance cybersecurity measures and contribute to the protection of digital assets. Passionate about creating robust and secure online environments. Self-motivated, collaborative, and constantly seeking to evolve in the field of ethical hacking and cybersecurity. I am also an active member of the open-source community and enjoy educating others about Ethical Hacking, solving technical problems, and continuously learning and growing in my field.</p>
 
-<p align="justify">⤷ I'm Krishna Kaushal, a highly motivated and resourceful self-taught web developer and Cyber Security Enthusiast based in India. I have a deep passion for web development and take great pride in the work that I do. I have extensive experience developing for the web, and I always aim to create a positive user experience, maintain strong architecture, and ensure high-quality code. My areas of expertise include HTML5, CSS3, JavaScript, C/C++, PHP and Python. I have a solid understanding of databases, specifically MySQL, and have worked with a variety of popular web development frameworks. I like to break into applications for fun and profit. I am also an active member of the open-source community and enjoy educating others about technology, solving technical problems, and continuously learning and growing in my field.</p>
+# The Tools in My Belt 🔧
 
-
- <a aligh="left" href="https://xalgord.in" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:xalgord@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/xalgord" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/xalgord" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a>  
-
-⚐ Based in India
-
-ϟ Currently Doing some researches
-
-ϟ Recently worked as freelance Web Developer
-
-## My skillset 🔧
-
-✔️ Web Application Penetration Testing<br/>
-✔️ Playing CTFs and Hacking related challenges<br/>
-✔️ Creating CTF challenges(Web)<br/>
-✔️ Networking<br/>
-✔️ Python , Javascript , PHP , C/C++<br/>
-✔️ WordPress<br/>
-✔️ Automating boring tasks with programming<br/>
+✔️ Web Application Penetration Testing<br>
+✔️ OWASP Top Ten Framework<br>
+✔️ Playing CTFs and Hacking related challenges<br>
+✔️ Burp Suite Pro<br>
+✔️ Linux<br>
+✔️ Automating boring tasks<br>
+✔️ Metasploit<br>
+✔️ Python, JavaScript, Bash<br>
+✔️ SQL Injection, XSS, CSRF, IDORs<br>
+✔️ Secure Coding Practices<br>
+✔️ Networking Fundamentals<br>
 ✔️ OSINT<br/>
-✔️ Linux<br/>
 
-   <a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>
-  
-- 💼 any freelance work? do reach, [email](mailto:connect@xalgord.in) :)
-- 💬 ask me about anything, i am happy to help;
+# Contributor to Web Application Security
+
+- Active participation in bug bounty programs, consistently contributing to the identification and mitigation of security vulnerabilities in web applications.
+- Share insights on ethical hacking methodologies, secure coding practices, and vulnerability assessment techniques through LinkedIn.
+- Engage with fellow enthusiasts to foster a collaborative and knowledge-sharing environment.
+- I like to create personal automation scripts in languages like Python and Bash.
 
 
-📈 my github stats
+💬 ask me about anything, I am happy to help;<br>
+📈 my Github stats<br>
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xalgord&show_icons=true&theme=gotham" alt="xalgord" />
 
