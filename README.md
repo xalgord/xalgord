@@ -7,7 +7,7 @@
 
 # What I'm All About
 <p align="justify">⤷
-Dedicated and skilled Web Application Penetration Tester and Bug Bounty Hunter, specializing in identifying and securing vulnerabilities within web applications. Adept at employing ethical hacking techniques to enhance cybersecurity measures and contribute to the protection of digital assets. Passionate about creating robust and secure online environments. Self-motivated, collaborative, and constantly seeking to evolve in the field of ethical hacking and cybersecurity. I am also an active member of the open-source community and enjoy educating others about Ethical Hacking, solving technical problems, and continuously learning and growing in my field.</p>
+Dedicated and skilled Web Application Penetration Tester and Bug Bounty Hunter, specializing in identifying and securing vulnerabilities within web applications. Self-motivated, collaborative, and constantly seeking to evolve in the field of ethical hacking and cybersecurity. I am also an active member of the open-source community and enjoy educating others about Ethical Hacking, solving technical problems, and continuously learning and growing in my field.</p>
 
 # The Tools in My Belt 🔧
 
