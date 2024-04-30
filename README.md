@@ -45,6 +45,9 @@ Dedicated and skilled Web Application Penetration Tester and Bug Bounty Hunter, 
 
 <p align="center">
   <a align="center" href="https://github.com/xalgord" target="_blank"><img src="https://img.shields.io/badge/Github-xalgord-green?style=for-the-badge&logo=github"></a>
+  <a align="center" href="https://medium.com/@xalgord" target="_blank"><img src="https://img.shields.io/badge/Medium-xalgord-black?style=for-the-badge&logo=medium"></a>
+  <a align="center" href="https://www.linkedin.com/in/xalgord" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-xalgord-blue?style=for-the-badge&logo=linkedin"></a>
+  
 </p>
 
 <p align="center">
